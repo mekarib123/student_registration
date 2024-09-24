@@ -1,0 +1,14 @@
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\bin\Debug\studeant regestration form.exe.config
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\bin\Debug\studeant regestration form.exe
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\bin\Debug\studeant regestration form.pdb
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant regestration form.csprojResolveAssemblyReference.cache
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant_regestration_form.Form1.resources
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant_regestration_form.Properties.Resources.resources
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant regestration form.csproj.GenerateResource.Cache
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant regestration form.exe
+c:\users\dream team\documents\visual studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant regestration form.pdb
+C:\Users\user\Documents\WindowsPowerShell\Visual Studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant regestration form.csproj.AssemblyReference.cache
+C:\Users\user\Documents\WindowsPowerShell\Visual Studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant_regestration_form.Form1.resources
+C:\Users\user\Documents\WindowsPowerShell\Visual Studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant_regestration_form.Properties.Resources.resources
+C:\Users\user\Documents\WindowsPowerShell\Visual Studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant regestration form.csproj.GenerateResource.cache
+C:\Users\user\Documents\WindowsPowerShell\Visual Studio 2013\Projects\studeant regestration form\studeant regestration form\obj\Debug\studeant regestration form.csproj.CoreCompileInputs.cache

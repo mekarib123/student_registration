@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: rvu,regstration, Configuration: Debug Any CPU ------
+1>c:\users\dream team\documents\visual studio 2013\Projects\rvu,regstration\rvu,regstration\Form1.cs(26,19,26,27): error CS0103: The name 'textBox3' does not exist in the current context
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
